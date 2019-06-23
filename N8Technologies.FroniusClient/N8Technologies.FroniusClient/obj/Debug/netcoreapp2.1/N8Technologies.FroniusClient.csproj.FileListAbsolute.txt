@@ -7,3 +7,12 @@ C:\Users\nathang\source\repos\N8Technologies.FroniusClient\N8Technologies.Froniu
 C:\Users\nathang\source\repos\N8Technologies.FroniusClient\N8Technologies.FroniusClient\bin\Debug\netcoreapp2.1\N8Technologies.FroniusClient.pdb
 C:\Users\nathang\source\repos\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.dll
 C:\Users\nathang\source\repos\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.pdb
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.csprojAssemblyReference.cache
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.csproj.CoreCompileInputs.cache
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.AssemblyInfoInputs.cache
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.AssemblyInfo.cs
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.dll
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\obj\Debug\netcoreapp2.1\N8Technologies.FroniusClient.pdb
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\bin\Debug\netcoreapp2.1\N8Technologies.FroniusClient.deps.json
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\bin\Debug\netcoreapp2.1\N8Technologies.FroniusClient.dll
+C:\Users\nathang\source\repos\FroniusClient\N8Technologies.FroniusClient\N8Technologies.FroniusClient\bin\Debug\netcoreapp2.1\N8Technologies.FroniusClient.pdb

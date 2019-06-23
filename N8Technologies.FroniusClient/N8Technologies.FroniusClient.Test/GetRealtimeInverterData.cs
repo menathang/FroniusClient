@@ -1,6 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Threading.Tasks;
+using N8Technologies.FroniusClient.ApiDataTypes;
 
 namespace N8Technologies.FroniusClient.Test
 {

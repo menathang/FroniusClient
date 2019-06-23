@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace N8Technologies.FroniusClient
+namespace N8Technologies.FroniusClient.ApiDataTypes
 {
     public class CumulationInverterData
     {

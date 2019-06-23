@@ -734,11 +734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
+      "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
       "projectName": "N8Technologies.FroniusClient",
-      "projectPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
+      "projectPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
       "packagesPath": "C:\\Users\\nathang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\obj\\",
+      "outputPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

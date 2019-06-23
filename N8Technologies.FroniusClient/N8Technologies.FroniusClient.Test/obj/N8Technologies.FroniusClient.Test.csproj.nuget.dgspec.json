@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj": {}
+    "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj": {
+    "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj",
+        "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj",
         "projectName": "N8Technologies.FroniusClient.Test",
-        "projectPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj",
+        "projectPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\N8Technologies.FroniusClient.Test.csproj",
         "packagesPath": "C:\\Users\\nathang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\obj\\",
+        "outputPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj": {
-                "projectPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj"
+              "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj": {
+                "projectPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj": {
+    "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
+        "projectUniqueName": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
         "projectName": "N8Technologies.FroniusClient",
-        "projectPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
+        "projectPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient.csproj",
         "packagesPath": "C:\\Users\\nathang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nathang\\source\\repos\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\obj\\",
+        "outputPath": "C:\\Users\\nathang\\source\\repos\\FroniusClient\\N8Technologies.FroniusClient\\N8Technologies.FroniusClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

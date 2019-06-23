@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace N8Technologies.FroniusClient
+namespace N8Technologies.FroniusClient.ApiDataTypes
 {
     public class ThreePhaseInverterData
     {

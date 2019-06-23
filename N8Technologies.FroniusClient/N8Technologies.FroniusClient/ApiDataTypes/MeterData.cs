@@ -37,5 +37,6 @@ namespace N8Technologies.FroniusClient.ApiDataTypes
         public decimal ReactiveEnergyConsumed { get; set; }
         public decimal PlusEnergyAbsolute { get; set; }
         public decimal MinusEnergyAbsolute { get; set; }
+
     }
 }

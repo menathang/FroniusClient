@@ -207,5 +207,33 @@ namespace N8Technologies.FroniusClient
 
         #endregion
 
+        #region "GetMeterData"
+
+        /// <summary>
+        /// Retrieve smart meter data from the solarnet asyncronously.
+        /// </summary>
+        /// <returns>Meter data from single or three phase meters. <see cref="GetEnrichedSystemMeterDataAsync"/> for retrieving meter data with unit information.</returns>
+        /// <seealso cref="GetEnrichedSystemMeterDataAsync"/>
+        public async Task<MeterData> GetSystemMeterDataAsync()
+        {
+            Uri ep = new Uri($"{BaseUrlString}GetMeterRealtimeData.cgi?Scope=System");
+
+            HttpResponseMessage m = await _httpClient.GetAsync(ep);
+
+            string content = await m.Content.ReadAsStringAsync();
+
+            SolarApiResponse<MeterData> r = JsonConvert.DeserializeObject<SolarApiResponse<MeterData>>(content);
+
+            return r.Body.Data;
+        }
+
+        public async Task<MeterData> GetEnrichedSystemMeterDataAsync()
+        {
+            return null;
+        }
+
+        #endregion
+
+
     }
 }
